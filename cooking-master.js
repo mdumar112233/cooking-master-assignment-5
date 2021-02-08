@@ -81,7 +81,6 @@ const singleItemDetails = singleItem =>{
         `
 
         mealDetails.innerHTML = item;
-            document.getElementById('meal-item').style.display = 'none';
 }
 
 document.getElementById('input-item').value = '';
